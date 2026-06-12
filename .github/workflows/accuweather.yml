@@ -1,0 +1,72 @@
+name: AccuWeather Automation
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # Every 60 minutes (at minute 0 of each hour, UTC). Matches DEFAULT_INTERVAL_MINUTES in config.py.
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  smoke-test:
+    name: AccuWeather Automation
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run smoke test
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 15
+          max_attempts: 2
+          retry_on: error
+          command: python -m pytest tests/test_accuweather.py -m smoke
+
+      - name: Upload data and reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: accuweather-output
+          if-no-files-found: ignore
+          retention-days: 14
+          path: |
+            data/daily_forecast.csv
+            data/execution_log.json
+            data/weather_summary_report.html
+            data/automation_qa_report.html
+
+      - name: Commit data files to repository
+        if: success() && github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily_forecast.csv data/execution_log.json data/weather_summary_report.html data/automation_qa_report.html
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update forecast data and reports from GitHub Actions"
+            git push
+          fi
