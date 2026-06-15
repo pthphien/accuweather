@@ -146,7 +146,7 @@ Run in the cloud on a fixed **60-minute** schedule (same as `DEFAULT_INTERVAL_MI
 
 | Trigger | When it runs |
 |---------|----------------|
-| `schedule` | **Every 60 minutes** (`0 * * * *` UTC — at :00 each hour) |
+| `schedule` | **Hourly** (`0 * * * *` UTC — at :00 each hour; may be delayed, see below) |
 | `workflow_dispatch` | Manual run from the **Actions** tab |
 | `push` / `pull_request` | On code changes to `main` (not on `data/` only commits) |
 
@@ -168,6 +168,19 @@ python -m pytest tests/test_accuweather.py -m smoke
 ```
 
 > **Timezone:** All `Executed At` / `execution_time` values and report footers are stored in **UTC** (same on your machine and GitHub Actions). GitHub cron runs at **:00 each hour UTC** (e.g. 07:00 UTC = 14:00 in Ho Chi Minh City, GMT+7).
+
+#### Schedule reliability (important)
+
+The workflow **is scheduled**, but GitHub does **not** guarantee exact hourly runs on the free plan.
+
+| What you might expect | What actually happens |
+|-----------------------|------------------------|
+| Run every 60 minutes from last run | Runs at **:00 UTC** each hour (fixed clock times) |
+| Always on time | Runs can be **delayed 1–6+ hours** when GitHub load is high |
+| Missed run is retried | **No catch-up** — a skipped hour is not run twice later |
+
+
+**If you need strict every-60-minute collection**, use local `scheduler.py`, an always-on VM, **Jenkins** (cron trigger on an always-on agent — reliable wall-clock hourly runs), or an external cron service that triggers **Run workflow** via the GitHub API — GitHub Actions alone is not reliable enough for precise hourly timing.
 
 #### Where are the data files and reports?
 
