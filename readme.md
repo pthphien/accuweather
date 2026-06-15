@@ -1,4 +1,4 @@
-# AccuWeather Automation Test
+#  AccuWeather Automation Test
 
 Selenium automation that collects daily weather forecast data from [AccuWeather](https://www.accuweather.com), stores it in CSV, logs each run, and generates two HTML reports: weather analytics and automation/QA data quality.
 
@@ -7,7 +7,7 @@ Selenium automation that collects daily weather forecast data from [AccuWeather]
 
 ---
 
-## What it does
+## 1. What it does
 
 Each successful run:
 
@@ -26,7 +26,7 @@ On failure, `scheduler.py` records a failed run with classified error counts bef
 
 ---
 
-## Installation
+## 2. Installation
 
 **Requirements:** Python 3.9+
 
@@ -45,9 +45,9 @@ Dependencies:
 
 ---
 
-## How to run
+## 3. How to run
 
-### Pytest
+### 3.1 Pytest
 
 Headless (default):
 
@@ -62,14 +62,8 @@ Visible browser:
 python3 -m pytest tests/test_accuweather.py --headed
 ```
 
-Single test:
 
-```bash
-python3 -m pytest tests/test_accuweather.py::TestAccuWeatherFlow::test_accuweather_10_day_forecast_flow
-```
-
-
-### Scheduler (continuous collection)
+### 3.2 Scheduler (continuous collection)
 
 Every 60 minutes (default):
 
@@ -140,7 +134,7 @@ Force stop if needed:
 kill -9 <PID>
 ```
 
-### GitHub Actions (every 60 minutes)
+### 3.3 GitHub Actions (every 60 minutes)
 
 Run in the cloud on a fixed **60-minute** schedule (same as `DEFAULT_INTERVAL_MINUTES` in `config.py`). Workflow: [`.github/workflows/accuweather.yml`](.github/workflows/accuweather.yml)
 
@@ -169,7 +163,7 @@ python -m pytest tests/test_accuweather.py -m smoke
 
 > **Timezone:** All `Executed At` / `execution_time` values and report footers are stored in **UTC** (same on your machine and GitHub Actions). GitHub cron runs at **:00 each hour UTC** (e.g. 07:00 UTC = 14:00 in Ho Chi Minh City, GMT+7).
 
-#### Schedule reliability (important)
+#### 3.4 Schedule reliability (important)
 
 The workflow **is scheduled**, but GitHub does **not** guarantee exact hourly runs on the free plan.
 
