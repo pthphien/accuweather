@@ -334,6 +334,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Tuesday, June 23 2026","Afternoon, Morning","Thunderstorm, Rain",94.0,80.0,109.0,90.0,2026-06-23 00:00:47
 "Tuesday, June 23 2026","Afternoon, Morning","Thunderstorm, Rain",94.0,80.0,109.0,90.0,2026-06-23 03:41:01
 "Tuesday, June 23 2026",Afternoon,"Rain, Cloudy",91.0,80.0,108.0,90.0,2026-06-23 07:39:03
+"Tuesday, June 23 2026",Afternoon,"Rain, Drizzle, Cloudy",91.0,80.0,108.0,90.0,2026-06-23 10:54:44
 "Wednesday, June 24 2026",Afternoon,"Thunderstorm, Rain, Cloudy",87.0,74.0,98.0,65.0,2026-06-12 04:45:25
 "Wednesday, June 24 2026",Afternoon,"Thunderstorm, Rain, Cloudy",87.0,74.0,98.0,65.0,2026-06-12 05:05:19
 "Wednesday, June 24 2026",All day,Rain,90.0,78.0,101.0,61.0,2026-06-12 08:54:36
@@ -428,6 +429,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Wednesday, June 24 2026",All day,"Rain, Cloudy",95.0,80.0,111.0,57.0,2026-06-23 00:00:47
 "Wednesday, June 24 2026",All day,"Rain, Cloudy",95.0,80.0,111.0,57.0,2026-06-23 03:41:01
 "Wednesday, June 24 2026",All day,Rain,95.0,80.0,107.0,96.0,2026-06-23 07:39:03
+"Wednesday, June 24 2026",All day,Rain,95.0,80.0,107.0,96.0,2026-06-23 10:54:44
 "Thursday, June 25 2026",Morning,"Rain, Cloudy",85.0,75.0,98.0,65.0,2026-06-12 04:45:25
 "Thursday, June 25 2026",Morning,"Rain, Cloudy",85.0,75.0,98.0,65.0,2026-06-12 05:05:19
 "Thursday, June 25 2026",Morning,"Rain, Cloudy",85.0,75.0,98.0,65.0,2026-06-12 08:54:36
@@ -522,6 +524,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Thursday, June 25 2026",All day,"Rain, Cloudy",94.0,80.0,108.0,56.0,2026-06-23 00:00:47
 "Thursday, June 25 2026",All day,"Rain, Cloudy",94.0,80.0,108.0,56.0,2026-06-23 03:41:01
 "Thursday, June 25 2026",All day,"Rain, Cloudy",93.0,80.0,107.0,61.0,2026-06-23 07:39:03
+"Thursday, June 25 2026",All day,"Rain, Cloudy",93.0,80.0,107.0,61.0,2026-06-23 10:54:44
 "Friday, June 26 2026","Afternoon, Morning","Thunderstorm, Rain",85.0,74.0,98.0,57.0,2026-06-12 04:45:25
 "Friday, June 26 2026","Afternoon, Morning","Thunderstorm, Rain",85.0,74.0,98.0,57.0,2026-06-12 05:05:19
 "Friday, June 26 2026","Afternoon, Morning","Thunderstorm, Rain",85.0,74.0,98.0,57.0,2026-06-12 08:54:36
@@ -616,6 +619,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Friday, June 26 2026","Afternoon, Morning","Thunderstorm, Rain",94.0,80.0,107.0,91.0,2026-06-23 00:00:47
 "Friday, June 26 2026","Afternoon, Morning","Thunderstorm, Rain",94.0,80.0,107.0,91.0,2026-06-23 03:41:01
 "Friday, June 26 2026","Afternoon, Morning","Thunderstorm, Rain",93.0,80.0,107.0,94.0,2026-06-23 07:39:03
+"Friday, June 26 2026","Afternoon, Morning","Thunderstorm, Rain",93.0,80.0,107.0,94.0,2026-06-23 10:54:44
 "Saturday, June 27 2026",Morning,"Rain, Cloudy",86.0,75.0,98.0,64.0,2026-06-12 18:59:07
 "Saturday, June 27 2026",Morning,"Rain, Cloudy",86.0,75.0,98.0,64.0,2026-06-12 21:02:42
 "Saturday, June 27 2026",Morning,"Rain, Cloudy",86.0,75.0,98.0,64.0,2026-06-12 23:08:09
@@ -705,6 +709,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Saturday, June 27 2026",Afternoon,"Rain, Cloudy",93.0,79.0,108.0,72.0,2026-06-23 00:00:47
 "Saturday, June 27 2026",Afternoon,"Rain, Cloudy",93.0,79.0,108.0,72.0,2026-06-23 03:41:01
 "Saturday, June 27 2026",Afternoon,"Rain, Cloudy",93.0,79.0,108.0,72.0,2026-06-23 07:39:03
+"Saturday, June 27 2026",Afternoon,"Rain, Cloudy, Sun",92.0,79.0,104.0,84.0,2026-06-23 10:54:44
 "Sunday, June 28 2026",Morning,"Rain, Cloudy",85.0,74.0,96.0,56.0,2026-06-13 17:10:40
 "Sunday, June 28 2026",Morning,"Rain, Cloudy",85.0,74.0,96.0,56.0,2026-06-13 19:07:26
 "Sunday, June 28 2026",Morning,"Rain, Cloudy",85.0,74.0,96.0,56.0,2026-06-13 21:02:44
@@ -785,6 +790,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Sunday, June 28 2026",All day,"Rain, Cloudy",93.0,79.0,103.0,90.0,2026-06-23 00:00:47
 "Sunday, June 28 2026",All day,"Rain, Cloudy",93.0,79.0,103.0,90.0,2026-06-23 03:41:01
 "Sunday, June 28 2026",All day,"Rain, Cloudy",93.0,79.0,103.0,90.0,2026-06-23 07:39:03
+"Sunday, June 28 2026",All day,"Rain, Cloudy",92.0,79.0,104.0,95.0,2026-06-23 10:54:44
 "Monday, June 29 2026",Afternoon,"Thunderstorm, Rain",85.0,75.0,94.0,61.0,2026-06-14 17:09:11
 "Monday, June 29 2026",Afternoon,"Thunderstorm, Rain",85.0,75.0,94.0,61.0,2026-06-14 19:08:45
 "Monday, June 29 2026",Afternoon,"Thunderstorm, Rain",85.0,75.0,94.0,61.0,2026-06-14 20:59:43
@@ -855,6 +861,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Monday, June 29 2026",All day,Rain,93.0,80.0,107.0,60.0,2026-06-23 00:00:47
 "Monday, June 29 2026",All day,Rain,93.0,80.0,107.0,60.0,2026-06-23 03:41:01
 "Monday, June 29 2026",All day,Rain,93.0,80.0,107.0,60.0,2026-06-23 07:39:03
+"Monday, June 29 2026",All day,Rain,91.0,78.0,102.0,70.0,2026-06-23 10:54:44
 "Tuesday, June 30 2026",All day,"Thunderstorm, Cloudy",86.0,74.0,94.0,55.0,2026-06-15 17:51:37
 "Tuesday, June 30 2026",All day,"Thunderstorm, Cloudy",86.0,74.0,94.0,55.0,2026-06-15 20:45:24
 "Tuesday, June 30 2026",All day,"Thunderstorm, Cloudy",86.0,74.0,94.0,55.0,2026-06-15 22:55:52
@@ -916,6 +923,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Tuesday, June 30 2026",All day,"Heavy Rain, Rain",91.0,78.0,108.0,62.0,2026-06-23 00:00:47
 "Tuesday, June 30 2026",All day,"Heavy Rain, Rain",91.0,78.0,108.0,62.0,2026-06-23 03:41:01
 "Tuesday, June 30 2026",All day,"Heavy Rain, Rain",91.0,78.0,108.0,62.0,2026-06-23 07:39:03
+"Tuesday, June 30 2026",All day,"Rain, Cloudy",91.0,78.0,108.0,56.0,2026-06-23 10:54:44
 "Wednesday, July 1 2026",Morning,"Rain, Cloudy",85.0,75.0,95.0,55.0,2026-06-16 17:54:58
 "Wednesday, July 1 2026",Morning,"Rain, Cloudy",85.0,75.0,95.0,55.0,2026-06-16 20:37:35
 "Wednesday, July 1 2026",Morning,"Rain, Cloudy",85.0,75.0,95.0,55.0,2026-06-16 22:48:41
@@ -971,6 +979,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Wednesday, July 1 2026",All day,Rain,91.0,77.0,102.0,61.0,2026-06-23 00:00:47
 "Wednesday, July 1 2026",All day,Rain,91.0,77.0,102.0,61.0,2026-06-23 03:41:01
 "Wednesday, July 1 2026",All day,Rain,91.0,77.0,102.0,61.0,2026-06-23 07:39:03
+"Wednesday, July 1 2026",All day,"Rain, Cloudy",90.0,77.0,102.0,55.0,2026-06-23 10:54:44
 "Thursday, July 2 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",87.0,76.0,95.0,55.0,2026-06-17 17:45:23
 "Thursday, July 2 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",87.0,76.0,95.0,55.0,2026-06-17 19:58:54
 "Thursday, July 2 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",87.0,76.0,95.0,55.0,2026-06-17 21:59:02
@@ -1019,6 +1028,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Thursday, July 2 2026",All day,Rain,88.0,76.0,100.0,74.0,2026-06-23 00:00:47
 "Thursday, July 2 2026",All day,Rain,88.0,76.0,100.0,74.0,2026-06-23 03:41:01
 "Thursday, July 2 2026","Afternoon, Morning","Rain, Cloudy",88.0,77.0,99.0,65.0,2026-06-23 07:39:03
+"Thursday, July 2 2026","Afternoon, Morning","Rain, Cloudy",88.0,77.0,99.0,65.0,2026-06-23 10:54:44
 "Friday, July 3 2026",All day,Cloudy,85.0,76.0,92.0,25.0,2026-06-18 17:55:55
 "Friday, July 3 2026",All day,Cloudy,85.0,76.0,92.0,25.0,2026-06-18 20:10:13
 "Friday, July 3 2026",All day,Cloudy,85.0,76.0,92.0,25.0,2026-06-18 22:52:29
@@ -1059,6 +1069,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Friday, July 3 2026",All day,Rain,89.0,77.0,98.0,76.0,2026-06-23 00:00:47
 "Friday, July 3 2026",All day,Rain,89.0,77.0,98.0,76.0,2026-06-23 03:41:01
 "Friday, July 3 2026",All day,Rain,86.0,76.0,95.0,75.0,2026-06-23 07:39:03
+"Friday, July 3 2026",All day,Rain,86.0,76.0,95.0,75.0,2026-06-23 10:54:44
 "Saturday, July 4 2026",Afternoon,"Thunderstorm, Cloudy",85.0,75.0,92.0,55.0,2026-06-19 17:11:52
 "Saturday, July 4 2026",Afternoon,"Thunderstorm, Cloudy",85.0,75.0,92.0,55.0,2026-06-19 19:25:48
 "Saturday, July 4 2026",Afternoon,"Thunderstorm, Cloudy",85.0,75.0,92.0,55.0,2026-06-19 21:01:28
@@ -1092,6 +1103,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Saturday, July 4 2026",All day,Rain,90.0,78.0,104.0,76.0,2026-06-23 00:00:47
 "Saturday, July 4 2026",All day,Rain,90.0,78.0,104.0,76.0,2026-06-23 03:41:01
 "Saturday, July 4 2026",All day,Rain,87.0,76.0,99.0,63.0,2026-06-23 07:39:03
+"Saturday, July 4 2026",All day,Rain,87.0,76.0,99.0,63.0,2026-06-23 10:54:44
 "Sunday, July 5 2026",Morning,"Rain, Cloudy",85.0,74.0,95.0,60.0,2026-06-20 18:06:08
 "Sunday, July 5 2026",Morning,"Rain, Cloudy",85.0,74.0,95.0,60.0,2026-06-20 20:11:16
 "Sunday, July 5 2026",Morning,"Rain, Cloudy",85.0,74.0,95.0,60.0,2026-06-20 22:00:00
@@ -1114,6 +1126,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Sunday, July 5 2026",Morning,"Rain, Cloudy",85.0,74.0,95.0,60.0,2026-06-23 00:00:47
 "Sunday, July 5 2026",Morning,"Rain, Cloudy",85.0,74.0,95.0,60.0,2026-06-23 03:41:01
 "Sunday, July 5 2026",All day,Rain,88.0,77.0,102.0,73.0,2026-06-23 07:39:03
+"Sunday, July 5 2026",All day,Rain,88.0,77.0,102.0,73.0,2026-06-23 10:54:44
 "Monday, July 6 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",85.0,75.0,97.0,55.0,2026-06-21 17:19:02
 "Monday, July 6 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",85.0,75.0,97.0,55.0,2026-06-21 19:14:36
 "Monday, July 6 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",85.0,75.0,97.0,55.0,2026-06-21 21:04:48
@@ -1127,9 +1140,11 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Monday, July 6 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",85.0,75.0,97.0,55.0,2026-06-23 00:00:47
 "Monday, July 6 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",85.0,75.0,97.0,55.0,2026-06-23 03:41:01
 "Monday, July 6 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",85.0,75.0,97.0,55.0,2026-06-23 07:39:03
+"Monday, July 6 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",85.0,75.0,97.0,55.0,2026-06-23 10:54:44
 "Tuesday, July 7 2026",Morning,"Rain, Cloudy",86.0,74.0,99.0,59.0,2026-06-22 17:26:11
 "Tuesday, July 7 2026",Morning,"Rain, Cloudy",86.0,74.0,99.0,59.0,2026-06-22 20:33:41
 "Tuesday, July 7 2026",Morning,"Rain, Cloudy",86.0,74.0,99.0,59.0,2026-06-22 22:42:06
 "Tuesday, July 7 2026",Morning,"Rain, Cloudy",86.0,74.0,99.0,59.0,2026-06-23 00:00:47
 "Tuesday, July 7 2026",Morning,"Rain, Cloudy",86.0,74.0,99.0,59.0,2026-06-23 03:41:01
 "Tuesday, July 7 2026",Morning,"Rain, Cloudy",86.0,74.0,99.0,59.0,2026-06-23 07:39:03
+"Tuesday, July 7 2026",Morning,"Rain, Cloudy",86.0,74.0,99.0,59.0,2026-06-23 10:54:44
