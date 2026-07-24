@@ -1,148 +1,5 @@
 [
   {
-    "execution_time": "2026-07-20 01:55:27",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 54.41,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 05:30:34",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.83,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 08:38:27",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 52.77,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 11:36:16",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 51.61,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 13:47:11",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 52.16,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 15:45:38",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 59.41,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 17:19:55",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.14,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 19:24:28",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.57,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 21:00:48",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 54.83,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 22:01:18",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 52.25,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-20 23:04:01",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.6,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
     "execution_time": "2026-07-21 01:29:31",
     "status": "passed",
     "records_collected": 15,
@@ -602,6 +459,19 @@
     "status": "passed",
     "records_collected": 15,
     "duration_seconds": 53.37,
+    "errors": {
+      "element_not_found": 0,
+      "timeout": 0,
+      "network_error": 0,
+      "page_load_failure": 0,
+      "unexpected_error": 0
+    }
+  },
+  {
+    "execution_time": "2026-07-24 01:43:59",
+    "status": "passed",
+    "records_collected": 15,
+    "duration_seconds": 51.58,
     "errors": {
       "element_not_found": 0,
       "timeout": 0,
