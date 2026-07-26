@@ -1,161 +1,5 @@
 [
   {
-    "execution_time": "2026-07-22 01:28:35",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 54.35,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 04:58:40",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.33,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 07:32:49",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 52.59,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 10:14:24",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 51.65,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 12:22:07",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 54.37,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 14:55:24",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 50.35,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 16:14:38",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 51.52,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 18:02:06",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 52.87,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 20:07:04",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 52.67,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 21:57:02",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 55.17,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 22:54:46",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.95,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-07-22 23:54:58",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.78,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
     "execution_time": "2026-07-23 01:48:06",
     "status": "passed",
     "records_collected": 15,
@@ -628,6 +472,19 @@
     "status": "passed",
     "records_collected": 15,
     "duration_seconds": 55.15,
+    "errors": {
+      "element_not_found": 0,
+      "timeout": 0,
+      "network_error": 0,
+      "page_load_failure": 0,
+      "unexpected_error": 0
+    }
+  },
+  {
+    "execution_time": "2026-07-26 01:46:27",
+    "status": "passed",
+    "records_collected": 15,
+    "duration_seconds": 53.48,
     "errors": {
       "element_not_found": 0,
       "timeout": 0,
