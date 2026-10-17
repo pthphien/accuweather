@@ -274,6 +274,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Saturday, October 17 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",91.0,78.0,105.0,96.0,2026-10-17 02:03:11
 "Saturday, October 17 2026",Afternoon,"Rain, Sun",91.0,78.0,112.0,90.0,2026-10-17 06:43:46
 "Saturday, October 17 2026",Afternoon,"Rain, Sun",91.0,78.0,112.0,90.0,2026-10-17 11:16:37
+"Saturday, October 17 2026",Evening,"Thunderstorm, Rain, Cloudy",91.0,78.0,87.0,91.0,2026-10-17 14:36:50
 "Sunday, October 18 2026",Morning,"Thunderstorm, Rain, Cloudy",89.0,76.0,102.0,65.0,2026-10-03 19:35:50
 "Sunday, October 18 2026",Morning,"Thunderstorm, Rain, Cloudy",89.0,76.0,102.0,65.0,2026-10-03 22:32:21
 "Sunday, October 18 2026",Morning,"Thunderstorm, Rain, Cloudy",89.0,76.0,102.0,65.0,2026-10-04 02:14:25
@@ -339,6 +340,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Sunday, October 18 2026",All day,Rain,90.0,78.0,106.0,96.0,2026-10-17 02:03:11
 "Sunday, October 18 2026",All day,Rain,90.0,78.0,106.0,96.0,2026-10-17 06:43:46
 "Sunday, October 18 2026",All day,Rain,90.0,78.0,101.0,91.0,2026-10-17 11:16:37
+"Sunday, October 18 2026",All day,Rain,90.0,78.0,101.0,91.0,2026-10-17 14:36:50
 "Monday, October 19 2026","Afternoon, Morning","Thunderstorm, Cloudy",89.0,77.0,101.0,55.0,2026-10-04 18:27:38
 "Monday, October 19 2026","Afternoon, Morning","Thunderstorm, Cloudy",89.0,77.0,101.0,55.0,2026-10-04 22:05:35
 "Monday, October 19 2026","Afternoon, Morning","Thunderstorm, Cloudy",89.0,77.0,101.0,55.0,2026-10-05 01:23:35
@@ -399,6 +401,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Monday, October 19 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",91.0,77.0,104.0,96.0,2026-10-17 02:03:11
 "Monday, October 19 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",91.0,77.0,104.0,96.0,2026-10-17 06:43:46
 "Monday, October 19 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",91.0,77.0,106.0,92.0,2026-10-17 11:16:37
+"Monday, October 19 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",91.0,77.0,106.0,92.0,2026-10-17 14:36:50
 "Tuesday, October 20 2026",All day,"Thunderstorm, Cloudy",88.0,76.0,99.0,55.0,2026-10-05 22:59:56
 "Tuesday, October 20 2026",All day,"Thunderstorm, Cloudy",88.0,76.0,99.0,55.0,2026-10-06 02:43:00
 "Tuesday, October 20 2026",All day,"Thunderstorm, Cloudy",88.0,76.0,99.0,55.0,2026-10-06 09:34:35
@@ -454,6 +457,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Tuesday, October 20 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",91.0,77.0,105.0,94.0,2026-10-17 02:03:11
 "Tuesday, October 20 2026","Afternoon, Morning","Thunderstorm, Rain, Cloudy",91.0,77.0,105.0,94.0,2026-10-17 06:43:46
 "Tuesday, October 20 2026",Afternoon,"Rain, Cloudy",90.0,77.0,106.0,74.0,2026-10-17 11:16:37
+"Tuesday, October 20 2026",Afternoon,"Rain, Cloudy",90.0,77.0,106.0,74.0,2026-10-17 14:36:50
 "Wednesday, October 21 2026",Morning,"Rain, Cloudy",89.0,77.0,102.0,58.0,2026-10-06 21:22:13
 "Wednesday, October 21 2026",Morning,"Rain, Cloudy",89.0,77.0,102.0,58.0,2026-10-07 01:07:12
 "Wednesday, October 21 2026",All day,Cloudy,87.0,77.0,99.0,25.0,2026-10-07 07:52:54
@@ -505,6 +509,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Wednesday, October 21 2026",All day,"Rain, Cloudy",93.0,77.0,109.0,57.0,2026-10-17 02:03:11
 "Wednesday, October 21 2026",All day,"Rain, Cloudy",93.0,77.0,109.0,57.0,2026-10-17 06:43:46
 "Wednesday, October 21 2026",All day,"Rain, Cloudy",93.0,78.0,109.0,71.0,2026-10-17 11:16:37
+"Wednesday, October 21 2026",All day,"Rain, Cloudy",93.0,78.0,109.0,71.0,2026-10-17 14:36:50
 "Thursday, October 22 2026",All day,Cloudy,90.0,76.0,101.0,25.0,2026-10-07 20:18:13
 "Thursday, October 22 2026",All day,Cloudy,90.0,76.0,101.0,25.0,2026-10-08 00:33:26
 "Thursday, October 22 2026",All day,Cloudy,90.0,76.0,101.0,25.0,2026-10-08 06:48:21
@@ -552,6 +557,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Thursday, October 22 2026",All day,"Rain, Cloudy",94.0,77.0,110.0,56.0,2026-10-17 02:03:11
 "Thursday, October 22 2026",All day,"Rain, Cloudy",94.0,77.0,110.0,56.0,2026-10-17 06:43:46
 "Thursday, October 22 2026",All day,Rain,94.0,77.0,108.0,91.0,2026-10-17 11:16:37
+"Thursday, October 22 2026",All day,Rain,94.0,77.0,108.0,91.0,2026-10-17 14:36:50
 "Friday, October 23 2026",Afternoon,"Rain, Cloudy",90.0,78.0,103.0,59.0,2026-10-08 20:20:24
 "Friday, October 23 2026",Afternoon,"Rain, Cloudy",90.0,78.0,103.0,59.0,2026-10-09 00:48:40
 "Friday, October 23 2026",Afternoon,"Rain, Cloudy",90.0,78.0,103.0,59.0,2026-10-09 06:56:48
@@ -595,6 +601,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Friday, October 23 2026",All day,Rain,94.0,77.0,110.0,70.0,2026-10-17 02:03:11
 "Friday, October 23 2026",All day,Rain,94.0,77.0,110.0,70.0,2026-10-17 06:43:46
 "Friday, October 23 2026",All day,Rain,92.0,77.0,107.0,72.0,2026-10-17 11:16:37
+"Friday, October 23 2026",All day,Rain,92.0,77.0,107.0,72.0,2026-10-17 14:36:50
 "Saturday, October 24 2026",All day,Cloudy,91.0,77.0,102.0,25.0,2026-10-09 19:18:11
 "Saturday, October 24 2026",All day,Cloudy,91.0,77.0,102.0,25.0,2026-10-09 23:40:49
 "Saturday, October 24 2026",All day,Cloudy,91.0,77.0,102.0,25.0,2026-10-10 03:13:22
@@ -634,6 +641,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Saturday, October 24 2026",Afternoon,"Rain, Cloudy",92.0,76.0,105.0,65.0,2026-10-17 02:03:11
 "Saturday, October 24 2026",Afternoon,"Rain, Cloudy",92.0,76.0,105.0,65.0,2026-10-17 06:43:46
 "Saturday, October 24 2026",Afternoon,"Rain, Cloudy",94.0,78.0,110.0,62.0,2026-10-17 11:16:37
+"Saturday, October 24 2026",Afternoon,"Rain, Cloudy",94.0,78.0,110.0,62.0,2026-10-17 14:36:50
 "Sunday, October 25 2026",All day,Sun,91.0,77.0,103.0,25.0,2026-10-10 19:51:19
 "Sunday, October 25 2026",All day,Sun,91.0,77.0,103.0,25.0,2026-10-10 23:04:49
 "Sunday, October 25 2026",All day,Sun,91.0,77.0,103.0,25.0,2026-10-11 02:45:34
@@ -668,6 +676,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Sunday, October 25 2026",All day,"Rain, Cloudy",93.0,78.0,107.0,59.0,2026-10-17 02:03:11
 "Sunday, October 25 2026",All day,"Rain, Cloudy",93.0,78.0,107.0,59.0,2026-10-17 06:43:46
 "Sunday, October 25 2026",All day,"Rain, Cloudy",93.0,77.0,110.0,59.0,2026-10-17 11:16:37
+"Sunday, October 25 2026",All day,"Rain, Cloudy",93.0,77.0,110.0,59.0,2026-10-17 14:36:50
 "Monday, October 26 2026",Afternoon,"Thunderstorm, Rain, Cloudy",90.0,78.0,102.0,64.0,2026-10-11 20:42:00
 "Monday, October 26 2026",Afternoon,"Thunderstorm, Rain, Cloudy",90.0,78.0,102.0,64.0,2026-10-12 00:05:45
 "Monday, October 26 2026",Afternoon,"Thunderstorm, Rain, Cloudy",90.0,78.0,102.0,64.0,2026-10-12 06:44:28
@@ -697,6 +706,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Monday, October 26 2026",All day,Sun,90.0,77.0,105.0,5.0,2026-10-17 02:03:11
 "Monday, October 26 2026",All day,Sun,90.0,77.0,105.0,5.0,2026-10-17 06:43:46
 "Monday, October 26 2026",All day,"Rain, Cloudy",92.0,78.0,106.0,55.0,2026-10-17 11:16:37
+"Monday, October 26 2026",Morning,"Rain, Sun",94.0,76.0,110.0,55.0,2026-10-17 14:36:50
 "Tuesday, October 27 2026",Afternoon,"Thunderstorm, Cloudy",90.0,78.0,102.0,55.0,2026-10-12 23:21:07
 "Tuesday, October 27 2026",Afternoon,"Thunderstorm, Cloudy",90.0,78.0,102.0,55.0,2026-10-13 04:25:00
 "Tuesday, October 27 2026",Afternoon,"Thunderstorm, Cloudy",90.0,78.0,102.0,55.0,2026-10-13 12:19:20
@@ -722,6 +732,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Tuesday, October 27 2026",Afternoon,"Rain, Cloudy",92.0,76.0,107.0,55.0,2026-10-17 02:03:11
 "Tuesday, October 27 2026",Afternoon,"Rain, Cloudy",92.0,76.0,107.0,55.0,2026-10-17 06:43:46
 "Tuesday, October 27 2026",All day,"Rain, Cloudy",93.0,77.0,108.0,55.0,2026-10-17 11:16:37
+"Tuesday, October 27 2026",All day,"Rain, Cloudy",93.0,77.0,108.0,55.0,2026-10-17 14:36:50
 "Wednesday, October 28 2026",All day,Cloudy,89.0,77.0,102.0,25.0,2026-10-13 19:38:03
 "Wednesday, October 28 2026",All day,Cloudy,89.0,77.0,102.0,25.0,2026-10-13 23:30:37
 "Wednesday, October 28 2026",All day,Cloudy,89.0,77.0,102.0,25.0,2026-10-14 02:35:11
@@ -744,6 +755,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Wednesday, October 28 2026",All day,Rain,90.0,77.0,106.0,62.0,2026-10-17 02:03:11
 "Wednesday, October 28 2026",All day,Rain,90.0,77.0,106.0,62.0,2026-10-17 06:43:46
 "Wednesday, October 28 2026",All day,"Rain, Cloudy",92.0,77.0,109.0,55.0,2026-10-17 11:16:37
+"Wednesday, October 28 2026",All day,"Rain, Cloudy",92.0,77.0,109.0,55.0,2026-10-17 14:36:50
 "Thursday, October 29 2026",All day,Cloudy,90.0,75.0,96.0,25.0,2026-10-14 19:02:26
 "Thursday, October 29 2026",All day,Cloudy,90.0,75.0,96.0,25.0,2026-10-14 22:49:28
 "Thursday, October 29 2026",All day,Cloudy,90.0,75.0,96.0,25.0,2026-10-15 01:04:57
@@ -761,6 +773,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Thursday, October 29 2026",All day,,90.0,75.0,96.0,25.0,2026-10-17 02:03:11
 "Thursday, October 29 2026",All day,,90.0,75.0,96.0,25.0,2026-10-17 06:43:46
 "Thursday, October 29 2026",All day,"Rain, Cloudy",90.0,78.0,103.0,55.0,2026-10-17 11:16:37
+"Thursday, October 29 2026",All day,"Rain, Cloudy",90.0,78.0,103.0,55.0,2026-10-17 14:36:50
 "Friday, October 30 2026",All day,Cloudy,90.0,77.0,101.0,25.0,2026-10-15 17:29:34
 "Friday, October 30 2026",All day,Cloudy,90.0,77.0,101.0,25.0,2026-10-15 20:41:02
 "Friday, October 30 2026",All day,Cloudy,90.0,77.0,101.0,25.0,2026-10-15 23:25:11
@@ -773,9 +786,11 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Friday, October 30 2026",All day,Cloudy,90.0,77.0,101.0,25.0,2026-10-17 02:03:11
 "Friday, October 30 2026",All day,Cloudy,90.0,77.0,101.0,25.0,2026-10-17 06:43:46
 "Friday, October 30 2026",All day,Cloudy,90.0,77.0,101.0,25.0,2026-10-17 11:16:37
+"Friday, October 30 2026",All day,Cloudy,90.0,77.0,101.0,25.0,2026-10-17 14:36:50
 "Saturday, October 31 2026",Afternoon,"Thunderstorm, Rain, Cloudy",89.0,78.0,104.0,61.0,2026-10-16 17:03:56
 "Saturday, October 31 2026",Afternoon,"Thunderstorm, Rain, Cloudy",89.0,78.0,104.0,61.0,2026-10-16 20:13:43
 "Saturday, October 31 2026",Afternoon,"Thunderstorm, Rain, Cloudy",89.0,78.0,104.0,61.0,2026-10-16 23:07:02
 "Saturday, October 31 2026",Afternoon,"Thunderstorm, Rain, Cloudy",89.0,78.0,104.0,61.0,2026-10-17 02:03:11
 "Saturday, October 31 2026",Afternoon,"Thunderstorm, Rain, Cloudy",89.0,78.0,104.0,61.0,2026-10-17 06:43:46
 "Saturday, October 31 2026",All day,"Partly Sunny, Sunny",91.0,77.0,105.0,20.0,2026-10-17 11:16:37
+"Saturday, October 31 2026",All day,"Partly Sunny, Sunny",91.0,77.0,105.0,20.0,2026-10-17 14:36:50
