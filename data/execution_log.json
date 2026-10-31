@@ -1,70 +1,5 @@
 [
   {
-    "execution_time": "2026-10-27 01:42:39",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 50.38,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-10-27 07:00:09",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 52.39,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-10-27 13:00:44",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 51.67,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-10-27 18:35:38",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 51.87,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-10-27 22:45:53",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 54.76,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
     "execution_time": "2026-10-28 01:55:27",
     "status": "passed",
     "records_collected": 15,
@@ -225,6 +160,19 @@
     "status": "passed",
     "records_collected": 15,
     "duration_seconds": 50.5,
+    "errors": {
+      "element_not_found": 0,
+      "timeout": 0,
+      "network_error": 0,
+      "page_load_failure": 0,
+      "unexpected_error": 0
+    }
+  },
+  {
+    "execution_time": "2026-10-31 01:12:56",
+    "status": "passed",
+    "records_collected": 15,
+    "duration_seconds": 52.99,
     "errors": {
       "element_not_found": 0,
       "timeout": 0,
