@@ -1,44 +1,5 @@
 [
   {
-    "execution_time": "2026-11-12 04:48:20",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 51.71,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-11-12 13:27:15",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 54.67,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
-    "execution_time": "2026-11-12 21:14:51",
-    "status": "passed",
-    "records_collected": 15,
-    "duration_seconds": 53.32,
-    "errors": {
-      "element_not_found": 0,
-      "timeout": 0,
-      "network_error": 0,
-      "page_load_failure": 0,
-      "unexpected_error": 0
-    }
-  },
-  {
     "execution_time": "2026-11-13 02:16:20",
     "status": "passed",
     "records_collected": 15,
@@ -186,6 +147,19 @@
     "status": "passed",
     "records_collected": 15,
     "duration_seconds": 52.45,
+    "errors": {
+      "element_not_found": 0,
+      "timeout": 0,
+      "network_error": 0,
+      "page_load_failure": 0,
+      "unexpected_error": 0
+    }
+  },
+  {
+    "execution_time": "2026-11-16 12:13:11",
+    "status": "passed",
+    "records_collected": 15,
+    "duration_seconds": 51.21,
     "errors": {
       "element_not_found": 0,
       "timeout": 0,
