@@ -1,58 +1,4 @@
 Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Executed At
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-04 19:01:31
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-05 00:37:05
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-05 07:32:03
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-05 15:54:57
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-05 21:41:03
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-06 01:54:51
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-06 08:43:59
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-06 16:28:30
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-06 21:52:16
-"Thursday, November 19 2026",All day,Sun,93.0,76.0,108.0,25.0,2026-11-07 01:26:22
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",93.0,78.0,105.0,55.0,2026-11-07 07:58:33
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",93.0,78.0,105.0,55.0,2026-11-07 14:37:45
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",93.0,78.0,105.0,55.0,2026-11-07 19:10:59
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",93.0,78.0,105.0,55.0,2026-11-07 23:13:57
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",93.0,78.0,105.0,55.0,2026-11-08 03:11:59
-"Thursday, November 19 2026",All day,Sun,92.0,77.0,105.0,4.0,2026-11-08 10:52:35
-"Thursday, November 19 2026",All day,Sun,92.0,77.0,105.0,4.0,2026-11-08 16:50:59
-"Thursday, November 19 2026",All day,Sun,92.0,77.0,105.0,4.0,2026-11-08 20:52:50
-"Thursday, November 19 2026",All day,Sun,92.0,77.0,105.0,4.0,2026-11-09 00:16:22
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,75.0,2026-11-09 07:24:25
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,75.0,2026-11-09 17:57:14
-"Thursday, November 19 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,75.0,2026-11-10 01:01:10
-"Thursday, November 19 2026",Morning,"Rain, Cloudy, Sun",93.0,77.0,106.0,55.0,2026-11-10 08:04:26
-"Thursday, November 19 2026",All day,"Cloudy, Sun",95.0,77.0,107.0,5.0,2026-11-10 16:40:40
-"Thursday, November 19 2026",All day,"Cloudy, Sun",95.0,78.0,106.0,5.0,2026-11-10 22:01:54
-"Thursday, November 19 2026",All day,"Cloudy, Sun",95.0,78.0,106.0,5.0,2026-11-11 02:22:09
-"Thursday, November 19 2026",All day,,95.0,77.0,107.0,15.0,2026-11-11 10:00:15
-"Thursday, November 19 2026",All day,,95.0,77.0,107.0,15.0,2026-11-11 17:43:24
-"Thursday, November 19 2026",All day,,94.0,77.0,106.0,15.0,2026-11-11 23:49:38
-"Thursday, November 19 2026",All day,,94.0,77.0,106.0,15.0,2026-11-12 04:48:20
-"Thursday, November 19 2026",All day,"Cloudy, Sun",95.0,78.0,106.0,25.0,2026-11-12 13:27:15
-"Thursday, November 19 2026",All day,"Cloudy, Sun",95.0,78.0,106.0,25.0,2026-11-12 21:14:51
-"Thursday, November 19 2026",All day,"Cloudy, Sun",95.0,78.0,106.0,25.0,2026-11-13 02:16:20
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Partly Sunny, Sunny",94.0,77.0,105.0,63.0,2026-11-13 10:17:10
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Partly Sunny, Sunny",94.0,77.0,105.0,63.0,2026-11-13 18:16:23
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Partly Sunny, Sunny",95.0,78.0,106.0,63.0,2026-11-14 00:01:31
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Partly Sunny, Sunny",95.0,78.0,106.0,63.0,2026-11-14 07:10:02
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Sunny",94.0,78.0,105.0,55.0,2026-11-14 14:37:32
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Sunny",95.0,77.0,105.0,55.0,2026-11-14 19:34:24
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Sunny",95.0,77.0,105.0,55.0,2026-11-14 23:29:50
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Sunny",95.0,77.0,105.0,55.0,2026-11-15 03:41:37
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Sunny",95.0,78.0,106.0,55.0,2026-11-15 11:38:21
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Sunny",95.0,78.0,106.0,55.0,2026-11-15 18:09:09
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Sunny",94.0,77.0,107.0,55.0,2026-11-15 23:14:41
-"Thursday, November 19 2026",Afternoon,Sunny,95.0,78.0,106.0,55.0,2026-11-16 12:13:11
-"Thursday, November 19 2026",Afternoon,Sunny,95.0,78.0,106.0,55.0,2026-11-16 22:38:07
-"Thursday, November 19 2026",Afternoon,Sunny,95.0,78.0,106.0,55.0,2026-11-17 04:52:06
-"Thursday, November 19 2026","Afternoon, Morning","Thunderstorm, Cloudy",95.0,77.0,108.0,55.0,2026-11-17 13:58:12
-"Thursday, November 19 2026","Afternoon, Morning","Thunderstorm, Cloudy",95.0,78.0,109.0,55.0,2026-11-17 21:59:39
-"Thursday, November 19 2026","Afternoon, Morning","Thunderstorm, Cloudy",95.0,78.0,109.0,55.0,2026-11-18 03:19:56
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Cloudy, Sun",95.0,78.0,106.0,55.0,2026-11-18 12:26:53
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Cloudy, Sun",95.0,78.0,108.0,55.0,2026-11-18 20:59:11
-"Thursday, November 19 2026",Afternoon,"Thunderstorm, Cloudy, Sun",95.0,78.0,108.0,55.0,2026-11-19 02:15:25
-"Thursday, November 19 2026",Afternoon,Thunderstorm,95.0,78.0,107.0,55.0,2026-11-19 10:53:50
 "Friday, November 20 2026",All day,Cloudy,93.0,77.0,106.0,25.0,2026-11-05 21:41:03
 "Friday, November 20 2026",All day,Cloudy,93.0,77.0,106.0,25.0,2026-11-06 01:54:51
 "Friday, November 20 2026",All day,Cloudy,93.0,77.0,106.0,25.0,2026-11-06 08:43:59
@@ -261,6 +207,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Monday, November 23 2026",Afternoon,Rain,95.0,79.0,108.0,56.0,2026-11-22 09:00:25
 "Monday, November 23 2026",Afternoon,Rain,95.0,79.0,108.0,56.0,2026-11-22 16:56:18
 "Monday, November 23 2026",Afternoon,Rain,95.0,79.0,110.0,55.0,2026-11-22 22:14:18
+"Monday, November 23 2026",Afternoon,Rain,95.0,79.0,110.0,55.0,2026-11-23 03:21:57
 "Tuesday, November 24 2026",All day,Cloudy,92.0,77.0,104.0,55.0,2026-11-09 17:57:14
 "Tuesday, November 24 2026",All day,Cloudy,92.0,77.0,104.0,55.0,2026-11-10 01:01:10
 "Tuesday, November 24 2026",All day,Cloudy,92.0,77.0,104.0,55.0,2026-11-10 08:04:26
@@ -307,6 +254,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Tuesday, November 24 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,75.0,2026-11-22 09:00:25
 "Tuesday, November 24 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,75.0,2026-11-22 16:56:18
 "Tuesday, November 24 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,75.0,2026-11-22 22:14:18
+"Tuesday, November 24 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,75.0,2026-11-23 03:21:57
 "Wednesday, November 25 2026",Afternoon,"Thunderstorm, Rain, Cloudy",90.0,76.0,102.0,65.0,2026-11-10 22:01:54
 "Wednesday, November 25 2026",Afternoon,"Thunderstorm, Rain, Cloudy",90.0,76.0,102.0,65.0,2026-11-11 02:22:09
 "Wednesday, November 25 2026",All day,Cloudy,93.0,77.0,106.0,25.0,2026-11-11 10:00:15
@@ -349,6 +297,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Wednesday, November 25 2026",Afternoon,"Rain, Cloudy",93.0,78.0,105.0,59.0,2026-11-22 09:00:25
 "Wednesday, November 25 2026",Afternoon,"Rain, Cloudy",93.0,78.0,105.0,59.0,2026-11-22 16:56:18
 "Wednesday, November 25 2026",Afternoon,"Rain, Cloudy",94.0,78.0,105.0,59.0,2026-11-22 22:14:18
+"Wednesday, November 25 2026",Afternoon,"Rain, Cloudy",94.0,78.0,105.0,59.0,2026-11-23 03:21:57
 "Thursday, November 26 2026",Afternoon,"Thunderstorm, Cloudy",92.0,76.0,106.0,55.0,2026-11-11 17:43:24
 "Thursday, November 26 2026",Afternoon,"Thunderstorm, Cloudy",92.0,76.0,106.0,55.0,2026-11-11 23:49:38
 "Thursday, November 26 2026",Afternoon,"Thunderstorm, Cloudy",92.0,76.0,106.0,55.0,2026-11-12 04:48:20
@@ -388,6 +337,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Thursday, November 26 2026",Afternoon,"Rain, Cloudy",93.0,78.0,107.0,63.0,2026-11-22 09:00:25
 "Thursday, November 26 2026",Afternoon,"Rain, Cloudy",93.0,78.0,107.0,63.0,2026-11-22 16:56:18
 "Thursday, November 26 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,63.0,2026-11-22 22:14:18
+"Thursday, November 26 2026",Afternoon,"Rain, Cloudy",94.0,78.0,107.0,63.0,2026-11-23 03:21:57
 "Friday, November 27 2026",Afternoon,"Thunderstorm, Rain, Cloudy",92.0,77.0,104.0,64.0,2026-11-12 21:14:51
 "Friday, November 27 2026",Afternoon,"Thunderstorm, Rain, Cloudy",92.0,77.0,104.0,64.0,2026-11-13 02:16:20
 "Friday, November 27 2026",Afternoon,"Thunderstorm, Rain, Cloudy",92.0,77.0,104.0,64.0,2026-11-13 10:17:10
@@ -423,6 +373,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Friday, November 27 2026",Afternoon,Rain,94.0,78.0,107.0,70.0,2026-11-22 09:00:25
 "Friday, November 27 2026",Afternoon,Rain,94.0,78.0,107.0,70.0,2026-11-22 16:56:18
 "Friday, November 27 2026",Afternoon,Rain,94.0,78.0,107.0,70.0,2026-11-22 22:14:18
+"Friday, November 27 2026",Afternoon,Rain,94.0,78.0,107.0,70.0,2026-11-23 03:21:57
 "Saturday, November 28 2026",Morning,"Thunderstorm, Cloudy",91.0,77.0,105.0,55.0,2026-11-13 18:16:23
 "Saturday, November 28 2026",Morning,"Thunderstorm, Cloudy",91.0,77.0,105.0,55.0,2026-11-14 00:01:31
 "Saturday, November 28 2026",All day,Cloudy,93.0,76.0,103.0,25.0,2026-11-14 07:10:02
@@ -455,6 +406,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Saturday, November 28 2026",Afternoon,"Rain, Cloudy",92.0,77.0,104.0,85.0,2026-11-22 09:00:25
 "Saturday, November 28 2026",Afternoon,"Rain, Cloudy",92.0,77.0,104.0,85.0,2026-11-22 16:56:18
 "Saturday, November 28 2026",Afternoon,"Rain, Cloudy",92.0,78.0,104.0,85.0,2026-11-22 22:14:18
+"Saturday, November 28 2026",Afternoon,"Rain, Cloudy",92.0,78.0,104.0,85.0,2026-11-23 03:21:57
 "Sunday, November 29 2026",All day,"Cloudy, Sun",92.0,76.0,105.0,25.0,2026-11-14 19:34:24
 "Sunday, November 29 2026",All day,"Cloudy, Sun",92.0,76.0,105.0,25.0,2026-11-14 23:29:50
 "Sunday, November 29 2026",All day,"Cloudy, Sun",92.0,76.0,105.0,25.0,2026-11-15 03:41:37
@@ -483,6 +435,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Sunday, November 29 2026",All day,Rain,92.0,77.0,99.0,60.0,2026-11-22 09:00:25
 "Sunday, November 29 2026",All day,Rain,92.0,77.0,99.0,60.0,2026-11-22 16:56:18
 "Sunday, November 29 2026",All day,Rain,91.0,77.0,100.0,60.0,2026-11-22 22:14:18
+"Sunday, November 29 2026",All day,Rain,91.0,77.0,100.0,60.0,2026-11-23 03:21:57
 "Monday, November 30 2026",Afternoon,"Thunderstorm, Cloudy",92.0,76.0,103.0,55.0,2026-11-15 18:09:09
 "Monday, November 30 2026",Afternoon,"Thunderstorm, Cloudy",92.0,76.0,103.0,55.0,2026-11-15 23:14:41
 "Monday, November 30 2026",Afternoon,"Thunderstorm, Cloudy",92.0,76.0,103.0,55.0,2026-11-16 12:13:11
@@ -507,6 +460,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Monday, November 30 2026",All day,"Heavy Rain, Rain",93.0,76.0,101.0,61.0,2026-11-22 09:00:25
 "Monday, November 30 2026",All day,"Heavy Rain, Rain",93.0,76.0,101.0,61.0,2026-11-22 16:56:18
 "Monday, November 30 2026",All day,"Heavy Rain, Rain",93.0,76.0,101.0,61.0,2026-11-22 22:14:18
+"Monday, November 30 2026",All day,"Heavy Rain, Rain",93.0,76.0,101.0,61.0,2026-11-23 03:21:57
 "Tuesday, December 1 2026","Afternoon, Morning","Thunderstorm, Cloudy",91.0,76.0,103.0,55.0,2026-11-16 22:38:07
 "Tuesday, December 1 2026","Afternoon, Morning","Thunderstorm, Cloudy",91.0,76.0,103.0,55.0,2026-11-17 04:52:06
 "Tuesday, December 1 2026","Afternoon, Morning","Thunderstorm, Cloudy",91.0,76.0,103.0,55.0,2026-11-17 13:58:12
@@ -528,6 +482,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Tuesday, December 1 2026",All day,"Rain, Cloudy",93.0,78.0,106.0,55.0,2026-11-22 09:00:25
 "Tuesday, December 1 2026",Afternoon,Rain,94.0,78.0,107.0,65.0,2026-11-22 16:56:18
 "Tuesday, December 1 2026",Afternoon,Rain,94.0,78.0,106.0,65.0,2026-11-22 22:14:18
+"Tuesday, December 1 2026",Afternoon,Rain,94.0,78.0,106.0,65.0,2026-11-23 03:21:57
 "Wednesday, December 2 2026",All day,Cloudy,93.0,76.0,104.0,25.0,2026-11-17 21:59:39
 "Wednesday, December 2 2026",All day,Cloudy,93.0,76.0,104.0,25.0,2026-11-18 03:19:56
 "Wednesday, December 2 2026",Morning,"Rain, Cloudy",93.0,76.0,105.0,55.0,2026-11-18 12:26:53
@@ -546,6 +501,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Wednesday, December 2 2026",Morning,"Rain, Cloudy, Sunny",92.0,77.0,105.0,49.0,2026-11-22 09:00:25
 "Wednesday, December 2 2026",Morning,"Rain, Cloudy, Sunny",92.0,77.0,105.0,49.0,2026-11-22 16:56:18
 "Wednesday, December 2 2026",Morning,"Rain, Cloudy, Sunny",92.0,77.0,105.0,49.0,2026-11-22 22:14:18
+"Wednesday, December 2 2026",Morning,"Rain, Cloudy, Sunny",92.0,77.0,105.0,49.0,2026-11-23 03:21:57
 "Thursday, December 3 2026",All day,Cloudy,92.0,75.0,103.0,25.0,2026-11-18 20:59:11
 "Thursday, December 3 2026",All day,Cloudy,92.0,75.0,103.0,25.0,2026-11-19 02:15:25
 "Thursday, December 3 2026",All day,Cloudy,92.0,75.0,103.0,25.0,2026-11-19 10:53:50
@@ -561,6 +517,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Thursday, December 3 2026","Afternoon, Morning",Rain,91.0,77.0,106.0,62.0,2026-11-22 09:00:25
 "Thursday, December 3 2026","Afternoon, Morning",Rain,91.0,77.0,106.0,62.0,2026-11-22 16:56:18
 "Thursday, December 3 2026","Afternoon, Morning",Rain,91.0,77.0,106.0,62.0,2026-11-22 22:14:18
+"Thursday, December 3 2026","Afternoon, Morning",Rain,91.0,77.0,106.0,62.0,2026-11-23 03:21:57
 "Friday, December 4 2026",All day,Cloudy,92.0,76.0,104.0,25.0,2026-11-19 19:15:10
 "Friday, December 4 2026",All day,Cloudy,92.0,76.0,104.0,25.0,2026-11-20 01:30:52
 "Friday, December 4 2026",All day,Cloudy,92.0,76.0,104.0,25.0,2026-11-20 09:23:08
@@ -573,6 +530,7 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Friday, December 4 2026",All day,Rain,92.0,78.0,101.0,67.0,2026-11-22 09:00:25
 "Friday, December 4 2026",All day,Rain,92.0,78.0,101.0,67.0,2026-11-22 16:56:18
 "Friday, December 4 2026",All day,Rain,92.0,78.0,101.0,67.0,2026-11-22 22:14:18
+"Friday, December 4 2026",All day,Rain,92.0,78.0,101.0,67.0,2026-11-23 03:21:57
 "Saturday, December 5 2026",All day,Cloudy,93.0,76.0,106.0,25.0,2026-11-20 18:07:04
 "Saturday, December 5 2026",All day,Cloudy,93.0,76.0,106.0,25.0,2026-11-21 00:28:33
 "Saturday, December 5 2026","Afternoon, Morning","Thunderstorm, Rain, Sun",93.0,76.0,105.0,55.0,2026-11-21 07:51:03
@@ -582,9 +540,12 @@ Date,Period,Weather,High Temp (F),Low Temp (F),Real Feel (F),Humidity (%),Execut
 "Saturday, December 5 2026","Afternoon, Morning","Thunderstorm, Rain, Sun",93.0,76.0,105.0,55.0,2026-11-22 09:00:25
 "Saturday, December 5 2026","Afternoon, Morning","Thunderstorm, Rain, Sun",93.0,76.0,105.0,55.0,2026-11-22 16:56:18
 "Saturday, December 5 2026","Afternoon, Morning","Thunderstorm, Rain, Sun",93.0,76.0,105.0,55.0,2026-11-22 22:14:18
+"Saturday, December 5 2026","Afternoon, Morning","Thunderstorm, Rain, Sun",93.0,76.0,105.0,55.0,2026-11-23 03:21:57
 "Sunday, December 6 2026",All day,,92.0,75.0,105.0,25.0,2026-11-21 21:18:33
 "Sunday, December 6 2026",All day,,92.0,75.0,105.0,25.0,2026-11-22 01:46:50
 "Sunday, December 6 2026",All day,,92.0,75.0,105.0,25.0,2026-11-22 09:00:25
 "Sunday, December 6 2026",All day,,92.0,75.0,105.0,25.0,2026-11-22 16:56:18
 "Sunday, December 6 2026",All day,,92.0,75.0,105.0,25.0,2026-11-22 22:14:18
+"Sunday, December 6 2026",All day,,92.0,75.0,105.0,25.0,2026-11-23 03:21:57
 "Monday, December 7 2026",All day,Cloudy,93.0,76.0,105.0,25.0,2026-11-22 22:14:18
+"Monday, December 7 2026",All day,Cloudy,93.0,76.0,105.0,25.0,2026-11-23 03:21:57
